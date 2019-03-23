@@ -1,0 +1,14 @@
+inicar servicio php  
+
+ir ala terminal e ingresar ala carpeta donde guardaremos lso archivos 
+
+cd /Users/serpas/Documents/
+
+luego ir ala carpeta donde estan lso archivos php 
+cd progra/
+
+luego iniciar servicio php en la terminal 
+php -S 127.0.0.1:8080
+
+Luego ir al navegador y listo ..
+127.0.0.1:8080/ejercicio6.php

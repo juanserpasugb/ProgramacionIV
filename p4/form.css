@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    height: 100%;
+}
+body{
+    background: #f5f6f6;
+}
+#encabezado{
+    background: #1C1C1C;
+    margin-bottom: 16px;
+    margin-top: 16px;
+    text-align: center;
+    width: 100%;
+}
+#encabezado h1{
+    font-family: 'Days One', sans-serif;
+    font-size: 3.6em;
+    color: #fff;
+}
+/*Estilo del Formulario*/
+.formulario{
+    background: #5882FA;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    padding: 20px 20px 20px 20px;
+    font: 12px Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+.formulario h3{
+    font: 16px "Trebuchet MS", Arial, Helvetica, sans-serif;
+    padding: 10px 10px 10px 20px;
+    display: block;
+    background: #013ADF;
+    border-bottom: 1px solid #B8DDFF;
+    margin: -20px -20px 15px;
+    color: E6E6E6;
+}
+UL{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    display: blockl;
+    line-height: 2.1em;
+}
